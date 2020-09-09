@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/firewall",
+    "name": "bwardlaw/firewall",
     "description": "A Laravel IP whitelisting and blacklisting",
     "keywords": [
         "firewall",
